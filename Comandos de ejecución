@@ -1,0 +1,6 @@
+Correr en consola linux
+SERVIDOR:
+  • COMPILACIÓN
+    gcc server.c -o server -pthread 
+  • EJECUCIÓN
+    ./server
