@@ -4,3 +4,8 @@ SERVIDOR:
     gcc server.c -o server -pthread 
   • EJECUCIÓN
     ./server
+CLIENTE (Para todos los clientes que se quieran abrir son los mismos comandos):
+  • COMPILACIÓN
+    gcc cliente.c -o cliente
+  • EJECUCIÓN
+    ./cliente
